@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/project-ScriptMasters14/",
+    "build": "vite build --base=/92_js_irensmile/",
     "preview": "vite preview"
   },
   "devDependencies": {
